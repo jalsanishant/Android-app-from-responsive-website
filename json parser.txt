@@ -1,0 +1,28 @@
+package com.example.nishant.myapplication4;
+
+import org.apache.http.NameValuePair;
+import org.json.JSONObject;
+
+import java.io.InputStream;
+import java.util.List;
+
+public class JsonParser {
+
+    static InputStream IS = null;
+    static JSONObject JB = null;
+    static String json = "";
+
+    // constructor
+    public JsonParser(){
+
+
+    }
+
+    public JSONObject makeHttpRequest(String url, String method, List<NameValuePair> params) {
+
+
+        return null;
+
+    }
+
+}
