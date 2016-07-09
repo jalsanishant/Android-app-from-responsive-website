@@ -1,1 +1,0 @@
-# Android-app-from-responsive-website
